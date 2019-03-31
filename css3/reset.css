@@ -1,0 +1,25 @@
+.background{
+	background: url(../img/bg1.jpg) no-repeat;
+	background-size: cover;
+
+}
+.container{
+	width: 500px;
+	margin: 20% auto;
+}
+.form-control {
+    width: 85%;
+    height: 46px;
+}
+.para{
+	    color: aliceblue;
+    font-size: 34px;
+}
+.btn{
+	
+    width: 82px;
+    height: 39px;
+    color: white;
+    background: brown;
+    margin: 1px;
+}
